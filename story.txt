@@ -1,4 +1,7 @@
 Monday
 Tuesday
+Wednessday
+Thursday
+Friday
 Saturday
 Sunday
