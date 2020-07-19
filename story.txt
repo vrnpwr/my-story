@@ -1,5 +1,4 @@
 Hey I am Testing the story
-Added a line of code in Staging Master Branch
 Monday
 Tuesday
 Wednessday
